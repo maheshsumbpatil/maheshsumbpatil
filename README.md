@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahesh Sumbpatil
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me iG-@itz_mahi007
 
 <!---
